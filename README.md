@@ -1,6 +1,18 @@
 ----------------------------------------------------------------------------
 
 # Welcome!
+
+## About me
+
+[![NOMEGIT GitHub stats](https://github-readme-stats.vercel.app/api?username=MichelleLeal)](https://github.com/NOMEGIT/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichelleLeal&langs_count=8)
+
+## Last Projects
+ <a href="https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2021-2-e1-proj-web-t1-grupo-3-doceria/src/index.html">Ana Diniz Doceria</a> <br>
+ <a href="https://lusogaragem.github.io/">Luso Garagem</a> <br>
+ <a href="https://michelleleal.github.io/socialMediaInterface/index.html">Interface de rede social</a> <br>
+ <a href="https://michelleleal.github.io/calculadoraIMC/index.html">Calculadora de IMC</a>
+ 
 ## I'm Michelle!
 
 :computer: Studying Front-End development!
@@ -16,16 +28,6 @@
  
  ⚡ Fun fact: Graduated in textile and fashion
 
-## About me
-
-[![NOMEGIT GitHub stats](https://github-readme-stats.vercel.app/api?username=MichelleLeal)](https://github.com/NOMEGIT/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichelleLeal&langs_count=8)
-
-## Last Projects
- <a href="https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2021-2-e1-proj-web-t1-grupo-3-doceria/src/index.html">Ana Diniz Doceria</a> <br>
- <a href="https://lusogaragem.github.io/">Luso Garagem</a> <br>
- <a href="https://michelleleal.github.io/socialMediaInterface/index.html">Interface de rede social</a> <br>
- <a href="https://michelleleal.github.io/calculadoraIMC/index.html">Calculadora de IMC</a>
 
 <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
